@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>1983nxy930</string>
+			<string>123456</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.31.52</string>
+			<string>192.168.6.242</string>
 			<key>ProxyServerPort</key>
-			<integer>8128</integer>
+			<integer>7890</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>kt930_5G</string>
+			<string>请输入wifi名称</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
